@@ -1,7 +1,0 @@
-#BOAS PRATICAS
-
-> Está atualizando sua branch pegando coisas do master?
-_ Use REBASE ( PULL / REBASE )
-
->Terminou sua feature no branch e quer jogar para o master?
-_ Use MERGE
