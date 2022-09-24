@@ -1962,10 +1962,10 @@ input, select, textarea {
 			}
 
 			.main.style1 > .content {
-				-moz-transition: opacity 1s ease;
-				-webkit-transition: opacity 1s ease;
-				-ms-transition: opacity 1s ease;
-				transition: opacity 1s ease;
+				-moz-transition: opacity 600ms ease;
+				-webkit-transition: opacity 600ms ease;
+				-ms-transition: opacity 600ms ease;
+				transition: opacity 600ms ease;
 				-moz-transform: translateZ(0);
 				-webkit-transform: translateZ(0);
 				-ms-transform: translateZ(0);
