@@ -1,4 +1,4 @@
-#Photo Portfolio Tálison Miguel
+#Photo Portfolio Tálison Miguel Amancio
 
 simple project of a course on udemy
 
