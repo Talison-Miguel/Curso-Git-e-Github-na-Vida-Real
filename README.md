@@ -1,5 +1,7 @@
 #Photo Portfolio Tálison Miguel Amancio
 
+Curse git github 
+
 simple project of a course on udemy
 
 Big Picture by HTML5 UP
