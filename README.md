@@ -1,4 +1,4 @@
-#Photo Portfolio Tálison Miguel Amancio
+Portfolio Tálison Miguel Amancio
 
 Curse git github 
 
