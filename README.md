@@ -1,4 +1,4 @@
-Portfolio Tálison Miguel Amancio
+Tálison Miguel Amancio
 
 Curse git github 
 
