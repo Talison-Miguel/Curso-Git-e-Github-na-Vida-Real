@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-40.6%25-orange">
  
-  <img alt="SASS" src="https://img.shields.io/badge/Git-GitHub%25-%23DB7093">
+  <img alt="SASS" src="https://img.shields.io/badge/Git-GitHub25-%23DB7093">
 
   <br>
   
