@@ -69,7 +69,6 @@ Para copiar o projeto, utilize os comandos:
   <a href="https://www.instagram.com/talison_miguel_00/">
     <img alt="Tálison Miguel Amancio" src="https://img.shields.io/badge/Instagram-@talison__miguel__00-833AB4?style=flat&logoColor=white&logo=instagram">
   </a>
-  
 </p>
 
 
