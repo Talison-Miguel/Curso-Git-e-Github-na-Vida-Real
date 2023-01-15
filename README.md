@@ -27,7 +27,7 @@
 
 ## :rocket: Sobre o Repositório
 
-Este é um repositório contendo todo conteúdo que fiz do curso de git e github do Willian Justen.
+Este é um repositório contendo todo conteúdo que fiz do curso de git e github do Willian Justen
 
 ---
 
