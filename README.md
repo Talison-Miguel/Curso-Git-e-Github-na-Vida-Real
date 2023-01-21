@@ -46,7 +46,7 @@ Este é um repositório contendo todo conteúdo que fiz do curso de git e github
 
 ## 📦️ Como utilizar o projeto
 
-Para copiar o projeto, utilize os comandos:
+Para copiar o projeto, utilize o comando:
 
 ```bash
   ❯ git clone https://github.com/Talison-Miguel/Curso-Git-e-Github-na-Vida-Real.git
